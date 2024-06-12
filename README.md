@@ -1,2 +1,2 @@
 # Wrek34.github.io
-repo to display my portfolio of programming work
+My personal portfolio and open-source contributions
