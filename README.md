@@ -83,4 +83,9 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 Thank you for visiting my portfolio! Feel free to explore my projects and get in touch if you'd like to collaborate or have any questions.
-## Contact
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Wrek34&limit=5&theme=dark&combine_all_yearly_contributions=true)
