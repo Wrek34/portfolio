@@ -1,6 +1,6 @@
-# Your Name - Portfolio
+# Wrek's - Portfolio
 
-Welcome to my portfolio! This repository showcases my projects and skills as a developer.
+Welcome to my portfolio! This repository showcases my projects and "skills" as a developer.
 
 ## 🚀 About Me
 
