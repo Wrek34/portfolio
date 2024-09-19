@@ -30,13 +30,8 @@ As a Navy veteran, tech enthusiast, and devoted family man,
 - 👯 I'm looking to collaborate on disruptive and innovative tech
 - 💬 Ask me about anything from my time in the military, Columbia University undergrad in my 30's, being a father, the MN Vikings, Video games, intellectual stimulation, and trying to make the world a better place
 
-## 🛠 Skills
-
-- Programming Languages: [e.g., JavaScript, Python, Java]
-- Front-end: [e.g., HTML, CSS, React]
-- Back-end: [e.g., Node.js, Express, Django]
-- Databases: [e.g., MongoDB, MySQL]
-- Tools & Technologies: [e.g., Git, Docker, AWS]
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ## 🏆 Projects
 
@@ -56,11 +51,11 @@ As a Navy veteran, tech enthusiast, and devoted family man,
 
 ## 📈 GitHub Stats
 
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Wrek34&show_icons=true&theme=radical)](https://github.com/Wrek34/github-readme-stats)
 
 ## 📫 How to reach me
 
-- Email: [Columbia](mailto:ryan.wieczorek@columbia.edu)
+- Email: [Columbia University](mailto:ryan.wieczorek@columbia.edu) or [Gmail](mailto:rakwieczorek@gmail.com)
 - LinkedIn: [Ryan Wieczorek](https://www.linkedin.com/in/ryan-wieczorek/)
 - X: [WreksShadow](https://twitter.com/WreksShadow)
 
