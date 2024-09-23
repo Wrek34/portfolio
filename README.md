@@ -35,7 +35,7 @@ As a Navy veteran, tech enthusiast, and devoted family man,
 
 ## 🏆 Projects
 
-[IBAROE (Integrated Blockchain and AI-Enabled Regulatory Oversight Ecosystem)]
+### IBAROE (Integrated Blockchain and AI-Enabled Regulatory Oversight Ecosystem)
 
 * **Description**: IBAROE is an innovative platform designed to enhance transparency and efficiency in regulatory processes using blockchain and AI technologies. It aims to address the challenge of regulatory capture by providing a transparent, secure, and intelligent system for oversight. Key features include a blockchain-based ledger for immutable record-keeping, AI-driven analytics for regulatory insights, and a user-friendly interface catering to various stakeholders including government officials, NGOs, and citizens.
 
