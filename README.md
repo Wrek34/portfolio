@@ -35,12 +35,29 @@ As a Navy veteran, tech enthusiast, and devoted family man,
 
 ## 🏆 Projects
 
-### [Project Name 1]
+### IBAROE (Integrated Blockchain and AI-Enabled Regulatory Oversight Ecosystem)
 
-- **Description**: Brief overview of the project
-- **Technologies used**: List of technologies
-- **Link to repo**: [GitHub Repo Link]
-- **Live demo**: [If applicable]
+* **Description**: IBAROE is an innovative platform designed to enhance transparency and efficiency in regulatory processes using blockchain and AI technologies. It aims to address the challenge of regulatory capture by providing a transparent, secure, and intelligent system for oversight. Key features include a blockchain-based ledger for immutable record-keeping, AI-driven analytics for regulatory insights, and a user-friendly interface catering to various stakeholders including government officials, NGOs, and citizens.
+
+* **Technologies used**: 
+  - Blockchain: Ethereum, Solidity
+  - Backend: Node.js, Express
+  - Frontend: React.js
+  - AI/Machine Learning: Python, TensorFlow, scikit-learn
+  - Database: MongoDB
+  - API: Flask
+
+* **Link to repo**: [(https://github.com/Wrek34/IBAROE-ReguTech)]
+
+* **Live demo**: [Not applicable yet - in development]
+
+Key Features:
+1. Blockchain Ledger: Secure and transparent record-keeping of regulatory activities and decisions.
+2. AI-Driven Analytics: Advanced insights and predictive analysis of regulatory data.
+3. User-Friendly Interface: Accessible dashboard for various stakeholders.
+4. Whistleblower Protection System: Secure channel for reporting unethical practices.
+
+This project demonstrates proficiency in full-stack development, blockchain technology, AI/ML implementation, and creating solutions for complex real-world problems in the realm of governance and regulatory oversight.
 
 ### [Project Name 2]
 
