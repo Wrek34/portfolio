@@ -34,9 +34,48 @@ install_nginx() {
     systemctl start nginx
 }
 
+# Function to install PHP
+install_php() {
+    log_message "Installing PHP and necessary modules..."
+    apt install -y php-fpm php-mysql
+    systemctl enable php7.4-fpm
+    systemctl start php7.4-fpm
+}
+
+# Function to install MySQL
+install_mysql() {
+    log_message "Installing MySQL..."
+    apt install -y mysql-server
+    systemctl enable mysql
+    systemctl start mysql
+    
+    # Secure MySQL installation
+    log_message "Securing MySQL installation..."
+    mysql_secure_installation
+}
+
+# Function to configure firewall
+configure_firewall() {
+    log_message "Configuring firewall..."
+    apt install -y ufw
+    ufw allow 'Nginx Full'
+    ufw allow 'OpenSSH'
+    ufw --force enable
+}
+
+# Function to create a sample index.php file
+create_sample_page() {
+    log_message "Creating a sample index.php file..."
+    echo "<?php phpinfo(); ?>" > /var/www/html/index.php
+}
+
 # Main execution
 check_root
 update_system
 install_nginx
+install_php
+install_mysql
+configure_firewall
+create_sample_page
 
 log_message "Server setup completed successfully!"
